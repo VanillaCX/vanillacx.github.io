@@ -8,6 +8,6 @@ title: Vanilla CX
 
 | Module | Status | Repo | Docs |
 |:--|:--|:--|:--|
-|@VanillaCX/Identity | WIP | [Github](https://github.com/VanillaCX/Identity) | [Github](https://github.com/VanillaCX/Identity/wiki)
-|@VanillaCX/Matter | WIP | [Github](https://github.com/VanillaCX/Matter) | [Github](https://github.com/VanillaCX/Matter/wiki)
-|@VanillaCX/Schema | WIP | [Github](https://github.com/VanillaCX/Schema) | [Github](https://github.com/VanillaCX/Schema/wiki)
+|Identity | WIP | [@VanillaCX/Identity](https://github.com/VanillaCX/Identity) | [wiki](https://github.com/VanillaCX/Identity/wiki)
+|Matter | WIP | [@VanillaCX/Matter](https://github.com/VanillaCX/Matter) | [wiki](https://github.com/VanillaCX/Matter/wiki)
+|Schema | WIP | [@VanillaCX/Schema](https://github.com/VanillaCX/Schema) | [wiki](https://github.com/VanillaCX/Schema/wiki)
